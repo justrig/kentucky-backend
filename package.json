@@ -4,3 +4,5 @@
     "start": "node server.js"
   }
 }
+
+npm install --omit=dev

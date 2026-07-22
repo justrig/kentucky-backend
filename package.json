@@ -1,5 +1,5 @@
-npm init -y
-npm install express pg dotenv cors jsonwebtoken bcrypt
+//*npm init -y
+//npm install express pg dotenv cors jsonwebtoken bcrypt*//
 
 {
   "scripts": {
